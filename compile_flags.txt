@@ -1,0 +1,6 @@
+-Wall
+-std=c++17
+-I
+./inc
+-I
+/opt/homebrew/include
